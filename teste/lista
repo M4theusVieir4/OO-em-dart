@@ -1,0 +1,12 @@
+1) carro.dart
+Classe construtor recebe velocidade máxima...
+int velocidadeMaxima;
+int velocidadeAtual;
+
+int acelerar(){...}
+int frear(){...}
+bool estaNoLimite()
+
+2) teste_carro.dart
+main    
+
